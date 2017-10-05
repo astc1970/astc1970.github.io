@@ -1,9 +1,13 @@
 
 # Assam State Transport Corporation 
 <br><br><br>
-Data and Information
+
+ <h2> Data and Information </h2>
+ 
 <br><br><br>
-#Technologies
+
+# Technologies
+
 1. HTML
 2. CSS
 3. Bootstrap
